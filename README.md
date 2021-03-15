@@ -1,2 +1,2 @@
 # Machine_Learning
-Different ML algorithms sample code.
+Different ML algorithm's sample code.
